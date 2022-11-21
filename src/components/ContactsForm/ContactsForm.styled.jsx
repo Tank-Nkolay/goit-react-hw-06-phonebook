@@ -24,7 +24,6 @@ export const Btn = styled.button`
   padding: 5px 10px 5px 10px;
   width: 128px;
   cursor: pointer;
-
   background-color: #f5f2f2;
 
   &:hover,
